@@ -1,8 +1,6 @@
-# upload-callpython-springboot
-Simple upload demo with Python calling implemented by Springboot.
-Springboot简单上传文件，调用python脚本返回结果demo.
+# Springboot简单上传文件，调用python脚本返回结果demo
 
-Springboot上传文件，调用Python进行文件处理，返回_json_结果供查询.
+Springboot上传文件，调用Python进行文件处理，返回_json_结果供查询
 
 ## Requirement
 - JDK 1.8+
