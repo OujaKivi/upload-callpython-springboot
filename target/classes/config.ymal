@@ -1,0 +1,7 @@
+path:
+    py_interpreter_path:/root/miniconda3/envs/py36/bin/python
+    py_script_path:/root/py_script/algo.py
+
+args:
+    upload_dir:/root/upload
+    py_run_arg:none
